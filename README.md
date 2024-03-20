@@ -1,3 +1,8 @@
 # RNAseq-Workflow
 
-Hi
+1. Download fastq files
+
+  
+3. Merge Reads 
+
+
